@@ -5,5 +5,3 @@ scikit-learn
 scikit-plot
 matplotlib
 joblib
-sklearn.ensemble
-sklearn.metrics
