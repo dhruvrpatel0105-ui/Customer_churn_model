@@ -35,6 +35,7 @@ st.markdown("""
     [data-testid="stSidebar"] {
         background: linear-gradient(160deg, #1a1f2e 0%, #141824 100%);
         border-right: 1px solid #2d3748;
+        color: white;
     }
 
     /* Section headers */
